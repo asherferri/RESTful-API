@@ -1,4 +1,4 @@
-# Resful API on plain node
+# Resful API on plain Node.js
 ### What is your project?
 
 I'm building an RESTful API for an uptime monitoring application, without using NPM modules, dependencies.
